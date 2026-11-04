@@ -31,4 +31,4 @@ LancheTest, AdicionaisTest
 O LancheTest ele testa se o preço calculado pelo sistema é um preço positivo, preços negativos não são aceitos.
 AdicionaisTest testa se ao adicionar baconExtra por exemplo, o sistema recalcula o preço final com o adicional do ingrediente corretamente.
 
-Video do Sistema: https://youtu.be/iu73sEwQA0s
+Video do Sistema: https://youtu.be/iKWNUa0gFkQ
